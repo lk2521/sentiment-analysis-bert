@@ -82,3 +82,10 @@ Indicates the model's loss on unseen validation data.
 #### F1 Score (Weighted): 
 Quantifies the model's performance using the weighted F1 score.
 
+![Screenshot 2023-12-23 234242](https://github.com/lk2521/sentiment-analysis-bert/assets/120410245/21023cde-2a4f-4ab4-952f-f9ced22e97ce)
+
+
+
+![Screenshot 2023-12-23 234352](https://github.com/lk2521/sentiment-analysis-bert/assets/120410245/01007821-bfaa-4df2-8b20-46dc3279ce5c)
+
+
